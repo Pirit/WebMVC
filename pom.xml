@@ -72,7 +72,6 @@
             <version>4.2.6.RELEASE</version>
         </dependency>
 
-
     </dependencies>
 
     <build>

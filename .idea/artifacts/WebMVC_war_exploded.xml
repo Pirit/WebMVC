@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="exploded-war" build-on-make="true" name="WebMVC:war exploded">
-    <output-path>$PROJECT_DIR$/apache-tomcat-8.5.23/webapps/WebMVC</output-path>
+    <output-path>$PROJECT_DIR$/target/WebMVC</output-path>
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
