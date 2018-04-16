@@ -1,10 +1,10 @@
 <component name="ArtifactManager">
-  <artifact type="exploded-war" build-on-make="true" name="WebMVC:war exploded">
-    <output-path>$PROJECT_DIR$/target/WebMVC</output-path>
+  <artifact type="exploded-war" name="JsonResponseTest:war exploded">
+    <output-path>$PROJECT_DIR$/JsonResponseTest/target/JsonResponseTest</output-path>
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="WebMVC" />
+          <element id="module-output" name="JsonResponseTest" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Maven: javax.servlet.jsp:jsp-api:2.2" />
@@ -29,9 +29,9 @@
         </element>
       </element>
       <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/target/WebMVC/META-INF/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/JsonResponseTest/target/JsonResponseTest/META-INF/MANIFEST.MF" />
       </element>
-      <element id="javaee-facet-resources" facet="WebMVC/web/Web" />
+      <element id="javaee-facet-resources" facet="JsonResponseTest/web/Web" />
     </root>
   </artifact>
 </component>
