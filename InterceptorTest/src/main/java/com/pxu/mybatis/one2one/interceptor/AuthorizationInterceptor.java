@@ -1,6 +1,6 @@
-package com.pxu.springmvc.interceptor;
+package com.pxu.mybatis.one2one.interceptor;
 
-import com.pxu.springmvc.entity.User;
+import com.pxu.mybatis.one2one.entity.User;
 import org.springframework.web.servlet.HandlerInterceptor;
 import org.springframework.web.servlet.ModelAndView;
 

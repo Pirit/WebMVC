@@ -1,6 +1,6 @@
-package com.pxu.springmvc.controller;
+package com.pxu.mybatis.one2one.controller;
 
-import com.pxu.springmvc.entity.Book;
+import com.pxu.mybatis.one2one.entity.Book;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;

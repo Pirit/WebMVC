@@ -10,6 +10,7 @@
     <modules>
         <module>JsonRequest2Test</module>
         <module>InterceptorTest</module>
+        <module>MybatisTest</module>
     </modules>
     <packaging>pom</packaging>
 

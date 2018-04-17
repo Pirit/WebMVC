@@ -12,7 +12,7 @@
     <mvc:interceptors>
         <mvc:interceptor>
             <mvc:mapping path="/*"/>
-            <bean class="com.pxu.springmvc.interceptor.AuthorizationInterceptor"/>
+            <bean class="com.pxu.mybatis.one2one.interceptor.AuthorizationInterceptor"/>
         </mvc:interceptor>
     </mvc:interceptors>
     

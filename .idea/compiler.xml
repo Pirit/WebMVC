@@ -8,11 +8,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="InterceptorTest" />
         <module name="JsonRequest2Test" />
+        <module name="MybatisTest" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="InterceptorTest" target="1.7" />
       <module name="JsonRequest2Test" target="1.7" />
+      <module name="MybatisTest" target="1.7" />
       <module name="WebMVC" target="1.7" />
     </bytecodeTargetLevel>
   </component>

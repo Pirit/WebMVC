@@ -1,7 +1,7 @@
-package com.pxu.springmvc.controller;
+package com.pxu.mybatis.one2one.controller;
 
 import com.alibaba.fastjson.JSONObject;
-import com.pxu.springmvc.entity.Book;
+import com.pxu.mybatis.one2one.entity.Book;
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 import org.springframework.stereotype.Controller;

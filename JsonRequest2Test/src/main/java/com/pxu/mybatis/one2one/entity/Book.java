@@ -1,4 +1,4 @@
-package com.pxu.springmvc.entity;
+package com.pxu.mybatis.one2one.entity;
 
 import java.io.Serializable;
 

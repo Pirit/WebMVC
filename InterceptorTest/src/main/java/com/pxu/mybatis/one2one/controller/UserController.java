@@ -1,8 +1,7 @@
-package com.pxu.springmvc.controller;
+package com.pxu.mybatis.one2one.controller;
 
-import com.pxu.springmvc.entity.User;
+import com.pxu.mybatis.one2one.entity.User;
 import org.springframework.stereotype.Controller;
-import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.servlet.ModelAndView;
 
