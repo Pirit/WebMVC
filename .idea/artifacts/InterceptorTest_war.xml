@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="InterceptorTest:war">
+    <output-path>$PROJECT_DIR$/InterceptorTest/target</output-path>
+    <root id="archive" name="InterceptorTest.war">
+      <element id="artifact" artifact-name="InterceptorTest:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JsonResponseTest/JsonResponseTest.iml" filepath="$PROJECT_DIR$/JsonResponseTest/JsonResponseTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterceptorTest/InterceptorTest.iml" filepath="$PROJECT_DIR$/InterceptorTest/InterceptorTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JsonRequest2Test/JsonRequest2Test.iml" filepath="$PROJECT_DIR$/JsonRequest2Test/JsonRequest2Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MybatisTest/MybatisTest.iml" filepath="$PROJECT_DIR$/MybatisTest/MybatisTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/WebMVC.iml" filepath="$PROJECT_DIR$/WebMVC.iml" />
     </modules>
   </component>

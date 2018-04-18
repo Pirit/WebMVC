@@ -6,11 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="JsonResponseTest" />
+        <module name="InterceptorTest" />
+        <module name="JsonRequest2Test" />
+        <module name="MybatisTest" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="JsonResponseTest" target="1.7" />
+      <module name="InterceptorTest" target="1.7" />
+      <module name="JsonRequest2Test" target="1.7" />
+      <module name="MybatisTest" target="1.7" />
       <module name="WebMVC" target="1.7" />
     </bytecodeTargetLevel>
   </component>
